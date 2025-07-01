@@ -31,3 +31,7 @@
 	<li><code>0 &lt;= s.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>s[i]</code> is <code>&#39;(&#39;</code>, or <code>&#39;)&#39;</code>.</li>
 </ul>
+</br>
+
+<h2>Hint</h2>
+<p> What if i know this opening parenthesis picked up with closed one  </p>
