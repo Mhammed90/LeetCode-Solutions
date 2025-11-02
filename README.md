@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
