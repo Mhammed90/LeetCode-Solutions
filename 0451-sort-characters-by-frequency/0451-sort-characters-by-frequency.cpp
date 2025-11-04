@@ -17,9 +17,7 @@ public:
 
         string res = "";
         for (auto i : comp) {
-            int cnt = i.first;
-            while (cnt--)
-                res += i.second;
+            res.append(i.first, i.second);
         }
         return res;
     }
