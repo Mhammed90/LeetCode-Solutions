@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
