@@ -1,9 +1,10 @@
+
 class Solution {
 public:
     int vis[100005], id[100005];
     vector<int> adj[100005];
     deque<int> temp;
-    vector<deque<int>> merg;
+    vector<deque<int>> components;
 
     void dfs(int u, int p) {
         if (vis[u])
@@ -27,11 +28,11 @@ public:
                 temp.clear();
                 dfs(i, i);
                 sort(temp.begin(), temp.end());
-                merg.push_back(temp);
+                components.push_back(temp);
             }
         }
-        for (int i = 0; i < merg.size(); i++) {
-            for (auto j : merg[i]) {
+        for (int i = 0; i < components.size(); i++) {
+            for (auto j : components[i]) {
                 /// id of the component
                 id[j] = i;
                 /// mark all is online
@@ -46,14 +47,15 @@ public:
             int u = e[1];
             if (ty == 1) {
                 int idx = id[u];
-                while (merg[idx].size() && !vis[merg[idx].front()]) {
-                    merg[idx].pop_front();
+                while (components[idx].size() &&
+                       !vis[components[idx].front()]) {
+                    components[idx].pop_front();
                 }
                 if (vis[u])
                     res.push_back(u);
                 else {
-                    if (merg[idx].size())
-                        res.push_back(merg[idx].front());
+                    if (components[idx].size())
+                        res.push_back(components[idx].front());
                     else
                         res.push_back(-1);
                 }
