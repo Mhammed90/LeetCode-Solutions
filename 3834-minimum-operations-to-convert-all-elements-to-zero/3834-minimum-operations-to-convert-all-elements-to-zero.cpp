@@ -78,53 +78,18 @@ public:
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        vector<int> adj[100005];
-        adj[nums[0]].push_back(0);
-        int mx = nums[0];
-        vector<int> temp = {nums[0]};
-
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i - 1] != nums[i]) {
-                temp.push_back(nums[i]);
-            }
-            mx = max(mx, nums[i]);
-        }
-
-        int n = temp.size();
-        for (int i = 1; i < n; i++) {
-            adj[temp[i]].push_back(i);
-        }
         int ans = 0;
-
-        segTree seg(n);
-        seg.build(temp);
-
-        for (int i = 0; i <= mx; i++) {
-            int l = -1, r = l;
-            int cnt = 0;
-            for (int j : adj[i]) {
-                cnt++;
-                if (l == -1) {
-                    l = j;
-                } else
-                    r = j;
-                if (min(l, r) != -1) {
-                    int g = seg.get(l, r + 1);
-                    if (g < i) {
-                        l = r, r = -1;
-                        if (cnt)
-                            ans++;
-                        cnt = 1;
-                 }
-                }
-            }
-            if (i && l != -1) {
+        stack<int> st;
+        for (int i = 0; i < nums.size(); i++) {
+            while (!st.empty() && st.top() > nums[i]) {
+                st.pop();
                 ans++;
             }
-            for (int j : adj[i]) {
-                seg.set(j, 0);
+            if (nums[i] > 0 && (st.empty() || st.top() < nums[i])) {
+                st.push(nums[i]);
             }
         }
+        ans += st.size();
         return ans;
     }
 };
