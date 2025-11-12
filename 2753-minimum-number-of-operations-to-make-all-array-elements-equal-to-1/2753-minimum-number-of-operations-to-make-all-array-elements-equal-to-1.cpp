@@ -36,19 +36,8 @@ public:
                 cnt = gc != 1;
                 for (int j = i - 1; j >= 0; j--) {
                     gc = gcd(gc, nums[j]);
-                    if (gc == 1) {
-                        int l = j - 1;
-                        int r = j + 1;
-                        while (l >= 0) {
-                            cnt += (nums[l--] != 1);
-                        }
-                        while (r < n) {
-                            cnt += (nums[r++] != 1);
-                        }
-                        if (i == 2) {
-                            cout << cnt << endl;
-                        }
-                        ans = min(ans, cnt);
+                    if (gc == 1)  {       
+                        ans = min(ans, i-j+n-1);
                         break;
                     }
                     cnt++;
