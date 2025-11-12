@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
