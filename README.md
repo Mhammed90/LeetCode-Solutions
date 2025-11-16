@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
