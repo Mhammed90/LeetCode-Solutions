@@ -15,14 +15,16 @@ public:
                 arr[x].l = i;
             arr[x].r = i;
         }
+        int freq[26];
         int ans = 0;
         for (int i = 0; i < 26; i++) {
             if (arr[i].l != -1) {
-                set<char> st;
+                memset(freq, 0, sizeof(freq));
                 for (int j = arr[i].l + 1; j < arr[i].r; j++) {
-                    st.insert(s[j]);
+                    freq[s[j] - 'a']++;
                 }
-                ans += st.size();
+                for (auto j : freq)
+                    ans += j != 0;
             }
         }
         return ans;
