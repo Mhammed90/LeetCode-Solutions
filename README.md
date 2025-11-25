@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
