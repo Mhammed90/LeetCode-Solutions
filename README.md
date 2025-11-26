@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2625-increment-submatrices-by-one) |
 ## Greedy
 |  |
