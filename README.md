@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0216-combination-sum-iii) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
@@ -225,8 +228,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
