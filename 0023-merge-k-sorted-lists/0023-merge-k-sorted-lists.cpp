@@ -10,19 +10,8 @@
  */
 class Solution {
 public:
-    ListNode* addNode(ListNode* head, int value) {
-        if (!head)
-            return new ListNode(value);
-
-        ListNode* cur = head;
-        while (cur->next)
-            cur = cur->next;
-
-        cur->next = new ListNode(value);
-        return head;
-    }
+   
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-
         vector<int> temp;
         for (auto head : lists) {
             for (ListNode* cur = head; cur; cur = cur->next)
