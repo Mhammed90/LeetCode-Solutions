@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
