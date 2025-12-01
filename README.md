@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
