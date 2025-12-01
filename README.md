@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
+| [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0216-combination-sum-iii) |
+| [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -192,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
