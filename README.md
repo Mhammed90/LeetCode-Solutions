@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
+| [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
