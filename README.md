@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -293,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+## String Matching
+|  |
+| ------- |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+## Hash Function
+|  |
+| ------- |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 <!---LeetCode Topics End-->
