@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Backtracking
 |  |
