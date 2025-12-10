@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Bit Manipulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
