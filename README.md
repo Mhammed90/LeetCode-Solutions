@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
+| [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
+| [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Linked List
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 ## Depth-First Search
 |  |
 | ------- |
