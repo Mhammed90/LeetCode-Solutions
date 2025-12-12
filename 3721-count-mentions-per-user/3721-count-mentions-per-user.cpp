@@ -12,6 +12,7 @@ public:
                      return stoi(a[0]) < stoi(b[0]);
                  return a[1] > b[1];
              });
+        int cnt = 0;
         for (auto& i : events) {
             if (i[1][0] == 'M') {
                 if (i[2][0] == 'H') {
@@ -22,8 +23,7 @@ public:
                         res[j] += Online[j];
                     }
                 } else if (i[2][0] == 'A') {
-                    for (int j = 0; j < m; j++)
-                        res[j]++;
+                    cnt++;
                 } else {
                     string x = i[2];
                     string t = "";
@@ -48,6 +48,9 @@ public:
                 Online[idx] = 0;
             }
         }
+        if (cnt)
+            for (int i = 0; i < m; i++)
+                res[i] += cnt;
         return res;
     }
 };
