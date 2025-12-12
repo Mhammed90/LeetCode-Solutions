@@ -13,11 +13,7 @@ public:
         for (auto i : queries) {
             int l = i[0], r = i[1], k = i[2];
             int val = dp[r] ^ (l ? dp[l - 1] : 0);
-            int cnt = 0;
-            for (int j = 0; j < 26; j++) {
-                if ((val >> j) & 1)
-                    cnt++;
-            }
+            int cnt = __builtin_popcount(val);
             cnt >>= 1;
             if (cnt > k)
                 res[idx] = 0;
