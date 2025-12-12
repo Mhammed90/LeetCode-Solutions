@@ -13,30 +13,25 @@ public:
                  return a[1] > b[1];
              });
         for (auto& i : events) {
-            cout << i[0] << " " << i[1] << " " << i[2] << endl;
-            if (i[1] == "MESSAGE") {
-                if (i[2] == "HERE") {
+            if (i[1][0] == 'M') {
+                if (i[2][0] == 'H') {
                     for (int j = 0; j < m; j++) {
                         if (stoi(i[0]) >= TimeOffLine[j]) {
                             Online[j] = 1;
                         }
                         res[j] += Online[j];
                     }
-                } else if (i[2] == "ALL") {
+                } else if (i[2][0] == 'A') {
                     for (int j = 0; j < m; j++)
                         res[j]++;
                 } else {
-
-                    vector<int> vis(m);
                     string x = i[2];
                     string t = "";
                     for (int j = 0; j < x.size(); j++) {
                         if (x[j] == 'i' || x[j] == 'd' || x[j] == ' ') {
                             if (t.size()) {
                                 int idx = stoi(t);
-                                vis[idx]++;
-                               // Online[idx] = 1;
-                             //   TimeOffLine[idx] = 0;
+                                res[idx]++;
                             }
                             t.clear();
 
@@ -44,15 +39,8 @@ public:
                             t += x[j];
                         }
                     }
-                    if (t.size()) {
-                        int idx = stoi(t);
-                        vis[idx]++;
-                       // Online[idx] = 1;
-                      //  TimeOffLine[idx] = 0;
-                    }
-                    for (int j = 0; j < m; j++) {
-                        res[j] += vis[j];
-                    }
+                    int idx = stoi(t);
+                    res[idx]++;
                 }
             } else {
                 int idx = stoi(i[2]);
