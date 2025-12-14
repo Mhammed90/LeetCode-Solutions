@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
 | [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 ## Stack
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
