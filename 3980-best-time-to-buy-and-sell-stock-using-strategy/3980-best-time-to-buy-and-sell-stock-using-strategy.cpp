@@ -14,17 +14,11 @@ public:
         }
         long long ans = prefx[n - 1];
         k /= 2;
-        for (int i = k; i < n; i++) {
-            if (i + k - 1 >= n)
-                break;
-            long long cur =
-                prefx[n - 1] - (prefx[i + (k-1)] -
-                                (i - (k + 1) >= 0 ? prefx[i - (k + 1)] : 0));
-
-            cout << cur << endl;
-
-            long long inc = sum[i + k - 1] - sum[i - 1];
-            ans = max(ans, cur + inc);
+        for (int i = k; i + k - 1 < n; i++) {
+            ans = max(ans, (prefx[n - 1] -
+                            (prefx[i + (k - 1)] -
+                             (i - (k + 1) >= 0 ? prefx[i - (k + 1)] : 0))) +
+                               (sum[i + k - 1] - sum[i - 1]));
         }
         return ans;
     }

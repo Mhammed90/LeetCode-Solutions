@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy">3980. Best Time to Buy and Sell Stock using Strategy</a></h2><h3>Medium</h3><hr><p>You are given two integer arrays <code>prices</code> and <code>strategy</code>, where:</p>
+<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/?envType=daily-question&envId=2025-12-18">3980. Best Time to Buy and Sell Stock using Strategy</a></h2><h3>Medium</h3><hr><p>You are given two integer arrays <code>prices</code> and <code>strategy</code>, where:</p>
 
 <ul>
 	<li><code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</li>
