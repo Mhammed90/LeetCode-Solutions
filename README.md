@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3617-find-the-original-typed-string-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Array
 |  |
 | ------- |
