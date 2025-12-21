@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Database
