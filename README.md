@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
