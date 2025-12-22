@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2625-increment-submatrices-by-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
+| [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
