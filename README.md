@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
+| [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
+| [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
