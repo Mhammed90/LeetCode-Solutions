@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-count-collisions-on-a-road](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
+| [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
+| [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
