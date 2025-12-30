@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3617-find-the-original-typed-string-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
