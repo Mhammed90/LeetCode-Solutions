@@ -1,26 +1,27 @@
 class Solution {
 public:
+    int arr[1000005];
     int maxSumDistinctTriplet(vector<int>& x, vector<int>& y) {
         int n = x.size();
-        vector<pair<int, int>> temp(n);
-        for (int i = 0; i < n; i++) {
-            temp[i] = {y[i], x[i]};
-        }
-        sort(temp.begin(), temp.end());
-        int a = 0, b = 0, c = 0, res = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            if (a == 0) {
-                res = temp[i].first;
-                a = temp[i].second;
-            } else if (a && b == 0 && temp[i].second != a) {
-                res += temp[i].first;
-                b = temp[i].second;
+        unordered_map<int, int> yx;
 
-            } else if (a && b && temp[i].second != a && temp[i].second != b) {
-                res += temp[i].first;
-                return res;
-            }
+        for (int i = 0; i < n; ++i) {
+            yx[x[i]] = max(yx[x[i]], y[i]);
         }
-        return -1;
+
+        priority_queue<int> pq;
+        for (auto& [key, val] : yx) {
+            pq.push(val);
+        }
+
+        if (pq.size() < 3)
+            return -1;
+
+        int sum = 0;
+        for (int i = 0; i < 3; ++i) {
+            sum += pq.top();
+            pq.pop();
+        }
+        return sum;
     }
 };
