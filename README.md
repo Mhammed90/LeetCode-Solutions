@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 | [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3819-count-covered-buildings) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bucket Sort
 |  |
 | ------- |
