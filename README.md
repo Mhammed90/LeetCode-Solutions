@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -421,12 +422,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Geometry
 |  |
 | ------- |
