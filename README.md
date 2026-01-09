@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Geometry
 |  |
