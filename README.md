@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
