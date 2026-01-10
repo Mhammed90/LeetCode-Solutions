@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
