@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0239-sliding-window-maximum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
