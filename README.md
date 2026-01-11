@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0216-combination-sum-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0435-non-overlapping-intervals) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
