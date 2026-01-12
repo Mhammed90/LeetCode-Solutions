@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1284-four-divisors) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1395-minimum-time-visiting-all-points) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1284-four-divisors](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1395-minimum-time-visiting-all-points) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1395-minimum-time-visiting-all-points) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Rolling Hash
 |  |
