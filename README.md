@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3114-beautiful-towers-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3114-beautiful-towers-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
