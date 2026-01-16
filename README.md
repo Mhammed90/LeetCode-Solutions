@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3805-maximize-active-section-with-trade-i) |
