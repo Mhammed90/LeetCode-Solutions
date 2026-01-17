@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1395-minimum-time-visiting-all-points) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 ## Rolling Hash
 |  |
