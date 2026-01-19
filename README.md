@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1395-minimum-time-visiting-all-points) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0436-find-right-interval](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2394-count-subarrays-with-score-less-than-k) |
