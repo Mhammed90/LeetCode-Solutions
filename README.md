@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3763-separate-squares-i) |
