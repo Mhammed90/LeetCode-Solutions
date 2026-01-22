@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Array
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3763-separate-squares-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2466-maximum-segment-sum-after-removals) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -530,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2466-maximum-segment-sum-after-removals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
