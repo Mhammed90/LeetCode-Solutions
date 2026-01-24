@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
