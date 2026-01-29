@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2576-minimum-penalty-for-a-shop](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3617-find-the-original-typed-string-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -553,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
