@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0436-find-right-interval](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
