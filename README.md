@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3721-count-mentions-per-user](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3721-count-mentions-per-user) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2037-count-square-sum-triples) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3805-maximize-active-section-with-trade-i) |
