@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2329-maximum-product-after-k-increments](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2329-maximum-product-after-k-increments) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2466-maximum-segment-sum-after-removals) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2329-maximum-product-after-k-increments](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
+| [2329-maximum-product-after-k-increments](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
 | [2479-meeting-rooms-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2479-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
