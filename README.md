@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3952-trionic-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3952-trionic-array-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
