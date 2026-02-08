@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0110-balanced-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0110-balanced-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
