@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3952-trionic-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Memoization
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
 | ------- |
