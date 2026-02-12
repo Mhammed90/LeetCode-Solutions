@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0436-find-right-interval](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
+| [0525-contiguous-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0525-contiguous-array) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0525-contiguous-array) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0525-contiguous-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
