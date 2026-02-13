@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3617-find-the-original-typed-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3617-find-the-original-typed-string-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [4056-longest-balanced-substring-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4056-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4056-longest-balanced-substring-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4056-longest-balanced-substring-ii) |
 ## Memoization
 |  |
 | ------- |
