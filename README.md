@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0072-edit-distance) |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0260-single-number-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
