@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0654-maximum-binary-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
