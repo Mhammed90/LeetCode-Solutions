@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [0691-stickers-to-spell-word](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0691-stickers-to-spell-word) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
