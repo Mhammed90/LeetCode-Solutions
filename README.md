@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1064-smallest-integer-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## String Matching
 |  |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 ## Monotonic Queue
 |  |
