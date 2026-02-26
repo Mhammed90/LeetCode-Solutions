@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1281-can-make-palindrome-from-substring) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0983-validate-stack-sequences) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
