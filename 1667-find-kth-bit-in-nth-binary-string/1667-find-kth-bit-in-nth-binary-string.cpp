@@ -1,18 +1,22 @@
 class Solution {
 public:
- 
-    char findKthBit(int n, int k) {
-        string cur = "0";
-        for (int i = 1; i <= n; i++) {
-            string x = cur + '1';
-            reverse(cur.begin(), cur.end());
-            for (char& j : cur) {
-                j = (j == '0' ? '1' : '0');
-            }
+    string solve(int n) {
+        if (n == 0)
+            return "0";
 
-            cur = x + cur;
+        string cur = solve(n - 1);
+
+        string x = cur + '1';
+
+        string rev = cur;
+        reverse(rev.begin(), rev.end());
+
+        for (char& c : rev) {
+            c = (c == '0' ? '1' : '0');
         }
 
-        return cur[k - 1];
+        return x + rev;
     }
+
+    char findKthBit(int n, int k) { return solve(n)[k - 1]; }
 };
