@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0696-count-binary-substrings) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
