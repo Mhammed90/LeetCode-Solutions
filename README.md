@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Doubly-Linked List
 |  |
