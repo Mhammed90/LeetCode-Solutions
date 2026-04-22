@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0175-combine-two-tables) |
+| [1155-product-sales-analysis-iii](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 ## Enumeration
 |  |
 | ------- |
