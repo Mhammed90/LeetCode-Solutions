@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1135-customers-who-bought-all-products](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1877-find-followers-count) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Enumeration
 |  |
 | ------- |
