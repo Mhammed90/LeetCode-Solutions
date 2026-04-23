@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1155-product-sales-analysis-iii](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Enumeration
 |  |
