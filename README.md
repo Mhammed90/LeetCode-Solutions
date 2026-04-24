@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2576-minimum-penalty-for-a-shop](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3019-furthest-point-from-origin](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3019-furthest-point-from-origin) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0451-sort-characters-by-frequency) |
+| [3019-furthest-point-from-origin](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3019-furthest-point-from-origin) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3594-identify-the-largest-outlier-in-an-array) |
