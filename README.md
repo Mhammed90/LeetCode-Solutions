@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
