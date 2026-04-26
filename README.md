@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Doubly-Linked List
