@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2577-count-palindromic-subsequences](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2577-count-palindromic-subsequences) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3952-trionic-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2625-increment-submatrices-by-one) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
