@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0474-ones-and-zeroes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0260-single-number-iii) |
+| [0396-rotate-function](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0456-132-pattern) |
