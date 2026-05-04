@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0085-maximal-rectangle) |
 | [0216-combination-sum-iii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0216-combination-sum-iii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0870-magic-squares-in-grid) |
 | [1311-largest-magic-square](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1311-largest-magic-square) |
