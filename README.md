@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [1972-rotating-the-box](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1972-rotating-the-box](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0696-count-binary-substrings) |
+| [1972-rotating-the-box](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
