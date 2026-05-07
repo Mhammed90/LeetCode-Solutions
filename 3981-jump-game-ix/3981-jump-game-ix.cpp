@@ -27,23 +27,14 @@ public:
         for (int i = n - 2; i >= 0; i--) {
             sufx[i] = min(sufx[i + 1], nums[i]);
         }
-
-        for (int i = 0; i + 1 < n; i++) {
+        res[n - 1] = pref[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
             if (pref[i] > sufx[i + 1]) {
-                adj[i].push_back(i + 1);
-                adj[i + 1].push_back(i);
-            }
+                res[i] = max(res[i + 1], pref[i]);
+            } else
+                res[i] = pref[i];
         }
 
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                mx = 0;
-                sol.clear();
-                dfs(i, nums);
-                for (auto j : sol)
-                    res[j] = mx;
-            }
-        }
         return res;
     }
 };
