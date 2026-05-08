@@ -22,7 +22,7 @@ FROM (
     SELECT TOP(1) movieName AS results
     FROM (
         SELECT title AS movieName,
-               AVG(cast(rating as float)) AS average_rating
+               AVG(rating*1.0) AS average_rating
         FROM MovieRating mr
         JOIN Movies m
             ON mr.movie_id = m.movie_id
