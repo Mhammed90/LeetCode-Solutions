@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1278-product-price-at-a-given-date](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1278-product-price-at-a-given-date) |
