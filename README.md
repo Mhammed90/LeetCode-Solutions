@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3952-trionic-array-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3885-count-special-triplets](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3886-count-number-of-trapezoids-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4045-longest-balanced-subarray-i](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/4056-longest-balanced-substring-ii) |
 ## Linked List
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/3863-power-grid-maintenance) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/0989-largest-component-size-by-common-factor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Database
 |  |
 | ------- |
