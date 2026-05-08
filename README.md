@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1155-product-sales-analysis-iii](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1278-product-price-at-a-given-date](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1670-patients-with-a-condition) |
 | [1877-find-followers-count](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1877-find-followers-count) |
