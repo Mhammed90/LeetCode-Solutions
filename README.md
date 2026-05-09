@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2288-count-operations-to-obtain-zero) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1972-rotating-the-box](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2043-cyclically-rotating-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2343-count-unguarded-cells-in-the-grid) |
