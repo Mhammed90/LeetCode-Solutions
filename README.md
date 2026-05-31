@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2245-destroying-asteroids](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2089-maximum-matrix-sum) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2245-destroying-asteroids](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2329-maximum-product-after-k-increments](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2164-two-best-non-overlapping-events) |
 | [2213-find-all-people-with-secret](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2213-find-all-people-with-secret) |
+| [2245-destroying-asteroids](https://github.com/Mhammed90/LeetCode-Solutions/tree/master/2245-destroying-asteroids) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Mhammed90/LeetCodeDaliyChallange/tree/master/2379-maximum-total-importance-of-roads) |
